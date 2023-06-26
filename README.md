@@ -30,14 +30,10 @@ CHIP8 KEYPAD       KEYBOARD
 +-+-+-+-+         +-+-+-+-+
 |A|0|B|F|         |Z|X|C|V|
 +-+-+-+-+         +-+-+-+-+
+
 Controls
 The emulator provides the following controls:
 
-Spacebar: Start/Pause the emulation.
-R: Reset the emulator (resets the CPU and clears the display).
-C: Clear the display.
-P: Increase the emulation speed.
-O: Decrease the emulation speed.
 Features
 The emulator implements all the standard Chip8 instructions, including arithmetic, logical, and control flow operations.
 The display is rendered using HTML5 Canvas.
