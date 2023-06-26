@@ -7,8 +7,13 @@ To use the emulator, follow these steps:
 
 Clone or download the repository to your local machine.
 Open the index.html file in your web browser.
-You should see the emulator interface and a file input button.
-Click the file input button to select a Chip8 ROM file (with the .ch8 extension) from your computer.
+You should see the emulator interface and it will start with airplane game.
+
+To add different games I have attached the chip8_roms folder. choose a file and add in roms folder.
+
+Now change the rom name in chip8.js to the rom you want. 
+<img width="205" alt="image" src="https://github.com/CoderZIE/Chip8/assets/102377644/2df5b293-e1d0-479f-9b66-5ec8c0c5da04">
+
 The emulator will load the ROM and start running it.
 Keyboard Mapping
 The Chip8 system uses a 16-key hexadecimal keypad. The emulator maps these keys to your computer keyboard as follows:
@@ -46,14 +51,15 @@ If you want to learn more about the Chip8 system or find additional ROMs to run 
 
 Wikipedia - Chip-8
 CHIP-8 Archive
+
 Acknowledgements
-This emulator is based on the work of multiple contributors and open-source projects. The following resources were used in the development of this emulator:
+This emulator is based on the work of freecode camp: https://www.freecodecamp.org/news/creating-your-very-own-chip-8-emulator/
 
 Cowgod's Chip-8 Technical Reference
 The CHIP-8 Cookbook
 Chip8 Emulator in JavaScript by Colin Eberhardt
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+
+
 
 
 
