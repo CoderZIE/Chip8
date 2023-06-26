@@ -1,0 +1,19 @@
+/* Aligning `canvas` to the center of the page */
+canvas {
+    border: 2px solid rgb(255, 0, 0);
+    background-color: #ffffff;
+    display: block;
+    margin: 0 auto;
+}
+
+/* styling the page */
+
+body {
+    background-color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+}
