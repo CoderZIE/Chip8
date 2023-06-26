@@ -12,7 +12,8 @@ You should see the emulator interface and it will start with airplane game.
 To add different games I have attached the chip8_roms folder. choose a file and add in roms folder.
 
 Now change the rom name in chip8.js to the rom you want. 
-<img width="205" alt="image" src="https://github.com/CoderZIE/Chip8/assets/102377644/2df5b293-e1d0-479f-9b66-5ec8c0c5da04">
+<img width="194" alt="image" src="https://github.com/CoderZIE/Chip8/assets/102377644/6f223711-0aed-4432-aca8-fd7a80027694">
+
 
 The emulator will load the ROM and start running it.
 Keyboard Mapping
